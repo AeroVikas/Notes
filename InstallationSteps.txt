@@ -1,0 +1,4 @@
+Tesseract OCR:
+	Installer for Windows for Tesseract development version 5.00 Alpha are available from Tesseract at UB Mannheim. These include the training tools. 
+	Both 32-bit and 64-bit installers are available.
+	https://github.com/UB-Mannheim/tesseract/wiki
