@@ -4,3 +4,4 @@ Installation of pygraphviz
 3. extract to some folder for example C:\Data\AI\Graphviz-12.0.0-win64
 4. run below command: 
 	pip install --config-settings="--global-option=build_ext" --config-settings="--global-option=-IC:\Data\AI\Graphviz-12.0.0-win64\include" --config-settings="--global-option=-LC:\Data\AI\Graphviz-12.0.0-win64\lib"  pygraphviz
+5. add C:\Data\AI\Graphviz-12.0.0-win64\bin to the global path
